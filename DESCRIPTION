@@ -1,0 +1,11 @@
+Package: Lima
+Type: Package
+Title: Lima connector
+Version: 0.1.0
+Author: Aravinth Raja
+Maintainer: Aravinth Raja <aravinth.raja@aline-consulting.com>
+Description: Lima connector
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: rJava,RJDBC
